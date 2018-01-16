@@ -17,7 +17,7 @@ dotnetcoreTr deposu .NET Core için iyi bir türkçe başlangıç noktasıdır.
 ## .NET Core Hakkında Bilgi edinin
 
 * [.NET Core Hakkında Bilgilenin](https://docs.microsoft.com/dotnet/core)
-* [.NET Core Yol Haritası](blob/master/roadmap.md)
+* [.NET Core Yol Haritası](core/blob/master/roadmap.md)
 * [.NET Platformu Hakkında Bilgilenin](https://docs.microsoft.com/dotnet/standard/)
 * [.NET Core release notes](https://github.com/dotnet/core/blob/master/release-notes/README.md)
 * [.NET Core Announcements](https://github.com/dotnet/announcements)
@@ -25,8 +25,8 @@ dotnetcoreTr deposu .NET Core için iyi bir türkçe başlangıç noktasıdır.
 
 ## Yardım
 
-* [File a .NET Core issue](issues)
-* [File an ASP.NET Core issue](issues)
+* [File a .NET Core issue](core/issues)
+* [File an ASP.NET Core issue](core/issues)
 * [File an issue for other components](Documentation/core-repos.md)
 * [Ask on Stack Overflow](https://stackoverflow.com/questions/tagged/.net-core)
 * [Contact Microsoft Support](https://support.microsoft.com/contactus/)
