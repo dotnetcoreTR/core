@@ -1,12 +1,12 @@
-﻿# .NET Core Home
+﻿# .NET Core Giriş
 
 dotnetcoreTr deposu .NET Core için iyi bir türkçe başlangıç noktasıdır.
 
 .Net Core için en son yayınlanan major sürüm 2.x.x'dir
 
-## Download the latest .NET Core SDK
+## .NET Core SDK Son Kararlı Sürümü İndirme İşlemleri
 
-* [.NET Core 2.0 SDK](release-notes/download-archives/2.0.3.md)
+* [.NET Core 2.0 SDK](https://www.microsoft.com/net/learn/get-started/windows?utm_expid=.-Fmi9Q05Ry2oXQgdtPElHw.0&utm_referrer=https%3A%2F%2Fwww.google.com.tr%2F)
 
 ## .NET Core Releases
 
