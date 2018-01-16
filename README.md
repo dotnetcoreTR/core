@@ -8,22 +8,22 @@ dotnetcoreTr deposu .NET Core için iyi bir türkçe başlangıç noktasıdır.
 
 * [.NET Core 2.0 SDK](release-notes/download-archives/2.0.5-download.md)
 
-## .NET Core Releases
+## .NET Core Yayınlama
 
 * [.NET Core released builds](release-notes/README.md)
 * [.NET Core daily preview builds](daily-builds.md)
 * [.NET Core daily servicing builds](daily-builds-servicing.md)
 
-## Learn about .NET Core
+## .NET Core Hakkında Bilgi edinin
 
-* [Learn about .NET Core](https://docs.microsoft.com/dotnet/core)
-* [.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)
-* [Learn how about the .NET platform](https://docs.microsoft.com/dotnet/standard/)
+* [.NET Core Hakkında Bilgilenin](https://docs.microsoft.com/dotnet/core)
+* [.NET Core Yol Haritası](https://github.com/dotnet/core/blob/master/roadmap.md)
+* [.NET Platformu Hakkında Bilgilenin](https://docs.microsoft.com/dotnet/standard/)
 * [.NET Core release notes](https://github.com/dotnet/core/blob/master/release-notes/README.md)
 * [.NET Core Announcements](https://github.com/dotnet/announcements)
-* [.NET Core blog](https://blogs.msdn.microsoft.com/dotnet/tag/net-core/)
+* [.NET Core Blog](https://blogs.msdn.microsoft.com/dotnet/tag/net-core/)
 
-## Getting help
+## Yardım
 
 * [File a .NET Core issue](https://github.com/dotnet/core/issues)
 * [File an ASP.NET Core issue](https://github.com/aspnet/home/issues)
@@ -39,7 +39,7 @@ The .NET Core team encourages [contributions](https://github.com/dotnet/coreclr/
 
 The .NET Core platform is part of the [.NET Foundation](http://www.dotnetfoundation.org).
 
-## Licenses
+## Lisanslar
 
 .NET Core repos typically use either the [MIT](LICENSE.TXT) or
 [Apache 2](http://www.apache.org/licenses/LICENSE-2.0) licenses for code.
