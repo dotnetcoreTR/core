@@ -26,7 +26,7 @@ dotnetcoreTr deposu .NET Core için iyi bir türkçe başlangıç noktasıdır.
 ## Yardım
 
 * [File a .NET Core issue](https://github.com/dotnetcoreTR/core/issues)
-* [File an ASP.NET Core issue](https://github.com/dotnetcoreTR/core/issues)
+* [File an ASP.NET Core issue](https://github.com/dotnetcoreTR/asp.net/issues)
 * [File an issue for other components](Documentation/core-repos.md)
 * [Ask on Stack Overflow](https://stackoverflow.com/questions/tagged/.net-core)
 * [Contact Microsoft Support](https://support.microsoft.com/contactus/)
