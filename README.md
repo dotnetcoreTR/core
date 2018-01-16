@@ -1,8 +1,8 @@
 ﻿# .NET Core Home
 
-The dotnet/core repository is a good starting point for .NET Core.
+dotnetcoreTr deposu .NET Core için iyi bir türkçe başlangıç noktasıdır.
 
-The latest major release is [.NET Core 2.0](release-notes/2.0/2.0.0.md). The latest patch updates are listed in [.NET Core release notes](release-notes/README.md)
+.Net Core için en son yayınlanan major sürüm 2.x.x'dir
 
 ## Download the latest .NET Core SDK
 
