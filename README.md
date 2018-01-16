@@ -17,7 +17,7 @@ dotnetcoreTr deposu .NET Core için iyi bir türkçe başlangıç noktasıdır.
 ## .NET Core Hakkında Bilgi edinin
 
 * [.NET Core Hakkında Bilgilenin](https://docs.microsoft.com/dotnet/core)
-* [.NET Core Yol Haritası](core/blob/master/roadmap.md)
+* [.NET Core Yol Haritası](roadmap.md)
 * [.NET Platformu Hakkında Bilgilenin](https://docs.microsoft.com/dotnet/standard/)
 * [.NET Core release notes](https://github.com/dotnet/core/blob/master/release-notes/README.md)
 * [.NET Core Announcements](https://github.com/dotnet/announcements)
