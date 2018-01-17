@@ -41,9 +41,6 @@ The .NET Core platform is part of the [.NET Foundation](http://www.dotnetfoundat
 
 ## Lisanslar
 
-.NET Core repos typically use either the [MIT](LICENSE.TXT) or
-[Apache 2](http://www.apache.org/licenses/LICENSE-2.0) licenses for code.
-Some projects license documentation and other forms of content under
-[Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
+.NET Core reposları genellikle kod için [MIT](LICENSE.TXT) veya [Apache 2](http://www.apache.org/licenses/LICENSE-2.0) lisanslarını kullanır. Bazı projeler, Creative Commons Attribution 4.0 altında doküman ve diğer içerik biçimlerini lisanslamaktadır [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
 
-See specific [repos](Documentation/core-repos.md) to understand the license used.
+Kullanılan lisansı anlamak için özel repolara bakın [repos](Documentation/core-repos.md).
