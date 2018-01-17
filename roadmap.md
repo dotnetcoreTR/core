@@ -1,4 +1,4 @@
-# .NET Core Roadmap
+# .NET Core Yol Haritası
 
 The .NET Core roadmap communicates project priorities for evolving and extending the scope of the product. New product experiences and features will include changes in various [layers of the product](Documentation/core-repos.md), in some combination of the runtime, framework, language compilers and tools. Each component may have its own component-level roadmap that will available in the repo for that component.
 
@@ -29,7 +29,7 @@ Milestone information is available on most repos, for example [dotnet/corefx mil
 
 The .NET Core 2.1 project has not yet started. The team is currently working on infrastructure improvements to the .NET Core build and release system. .NET Core 2.1 release information will be shared here once planning starts.
 
-## Feedback
+## Geri Bildirim
 
 The best way to give feedback is to create issues in the [dotnet/core](https://github.com/dotnet/core) repo with the [roadmap label](https://github.com/dotnet/core/labels/roadmap). You can also create issues in other [.NET Core repos](Documentation/core-repos.md) if you find that to be more appropriate for the topic you want to discuss.
 
